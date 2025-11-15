@@ -194,4 +194,4 @@ MIT License - Feel free to use this template for any project!
 
 ## Credits
 
-Template created with ❤️ for quick project scaffolding.
+Template created by [Brainon Queiroz](https://github.com/QZBrainon)
