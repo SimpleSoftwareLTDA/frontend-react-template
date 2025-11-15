@@ -20,7 +20,7 @@ A professional React + TypeScript + Material UI template with a reusable header 
 
 ```bash
 # Clone this template
-npx degit your-username/frontend-react-template my-new-project
+npx degit SimpleSoftwareLTDA/frontend-react-template my-new-project
 
 # Enter directory and install dependencies
 cd my-new-project
