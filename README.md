@@ -19,15 +19,7 @@ A professional React + TypeScript + Material UI template with a reusable header 
 ### Method 1: Using degit (Recommended)
 
 ```bash
-# Clone this template
-npx degit SimpleSoftwareLTDA/frontend-react-template my-new-project
-
-# Enter directory and install dependencies
-cd my-new-project
-npm install
-
-# Start development server
-npm run dev
+npx degit SimpleSoftwareLTDA/frontend-react-template my-new-project && cd my-new-project && npm install && npm run dev
 ```
 
 ### Method 2: GitHub Template Button
